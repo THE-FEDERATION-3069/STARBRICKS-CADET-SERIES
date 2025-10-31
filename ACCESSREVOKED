@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>TWO WAY MIRROR Bureau — Archive 4509</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+  body {
+    margin:0;
+    font-family:"IBM Plex Mono", monospace;
+    background:#0a0a0a;
+    color:#e0e0e0;
+    line-height:1.6;
+    overflow-x:hidden;
+  }
+  header {
+    background:#101010;
+    color:#d0d0d0;
+    text-align:center;
+    padding:36px 14px;
+    letter-spacing:1px;
+    text-transform:uppercase;
+    position:relative;
+    overflow:hidden;
+    border-bottom:1px solid #222;
+  }
+  header h1 { font-size:1.4rem; margin:0; position:relative; z-index:2; }
+  .sub { font-size:0.85rem; opacity:0.6; }
+  main {
+    max-width:800px;
+    margin:50px auto;
+    padding:0 20px;
+    background:#111;
+    box-shadow:0 0 12px rgba(255,255,255,0.05);
+  }
+  section { padding:30px; border-bottom:1px solid #222; }
+  h2 { font-size:1rem; text-transform:uppercase; letter-spacing:0.05em; color:#9ee2ff; }
+  p { margin-top:10px; }
+  footer {
+    padding:20px;
+    text-align:center;
+    font-size:0.75rem;
+    color:#777;
+    border-top:1px solid #222;
+  }
+  ol { padding-left:20px; }
+  .parallax {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    pointer-events:none;
+    color:rgba(255,255,255,0.03);
+    font-size:10rem;
+    letter-spacing:2rem;
+    font-weight:900;
+    white-space:nowrap;
+    overflow:hidden;
+    transform:translateZ(0);
+  }
+  /* Modal popup for seized STARBLOCKS notice */
+  #popup {
+    position:fixed;
+    top:0; left:0; width:100%; height:100%;
+    background:rgba(0,0,0,0.95);
+    color:#fff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    z-index:999;
+    text-align:center;
+    padding:30px;
+    box-sizing:border-box;
+    font-size:1rem;
+  }
+  #popup button {
+    margin-top:20px;
+    padding:10px 20px;
+    font-size:0.9rem;
+    background:#111;
+    color:#9ee2ff;
+    border:1px solid #9ee2ff;
+    cursor:pointer;
+  }
+</style>
+</head>
+<body>
+<div id="popup">
+  <div>
+    <strong>NOTICE:</strong><br>
+    The STARBLOCKS public website has been seized by the TWO WAY MIRROR Bureau. All prior online archives have been removed from public access. This mirror reproduces authorized fragments for evidence purposes only.
+    <br><button onclick="document.getElementById('popup').style.display='none'">Acknowledge</button>
+  </div>
+</div>
+
+<header>
+  <div class="parallax" id="parallax">ARCHIVE4509</div>
+  <h1>THE TWO WAY MIRROR</h1>
+  <div class="sub">Evidence Submission — Case File 4509</div>
+</header>
+
+<main>
+  <section>
+    <h2>Executive Summary</h2>
+    <p>In the case of [[[REDACTED]]] lies a fault, even after the dissipation of the Federation. Those who still hope seek nothing but running endlessly into a fog. The case in point is something akin to, looking further into the Federation's past, specifically the Discovery's documentation, Eden, and how the members of their church, according to their documentations, held out on a figure they could not see.*</p>
+    <p>Similarly, [[[REDACTED]]] is being held accountable for the murder of [[[REDACTED]]], all because of a sick and twisted delusion-- waiting for the Federation to come and save him from himself. In my professional opinion, absolutely pathetic.</p>
+    <p>The Federation has been gone for decades now, wiped off the face of the known universe after the Burn**. Everyone knows that it's so pointless to see someone goes so mad over nothing. We received some evidence to convict this lunatic. One of them is the most notable.</p>
+    <p> Hell, a long, long time ago I think it was..... Koz.. Kozinets? Said that many "products that matter to people are utilized by them in a self-stimulating fashion [...]" ***, which I think is interesting in this dang context... 
+  </section>
+
+  <section>
+    <h2>Recovered Artifacts</h2>
+    <p>We brought in physical evidence  redacted obsession with the Federation and how that's it possible and very very very likely link, tying him to the murder of his blank. It will be physically brought in later today, a STARBRICKS toy, can you believe that? STARBRICKS. Of course, we had to keep the actual toy in question in proper safekeeping, however, the manual should be harmless enough to let the public know of what's going on.</p>
+  </section>
+
+  <section>
+    <h2>Transmission Excerpts</h2>
+    <p>[[[REDACTED]]] -- I... I swear it was an accident... I.. I thought--</p>
+    <p> </p>
+    <p>Detective #21532 -- Don't ******** me, [[[REDACTED]]]! What you did was cultish, man!!</p>
+	<p>*noise which simulates heated arguing and talking over one another ensues for 23.56541266 minutes...*</p>
+    <p>Detective #21532 -- I don't understand how you cant grasp that the Federation canNOT help you, or anyone, EVER AGAIN!!</p>
+	<p>[[[REDACTED]]] -- I just want utopia for me and my family.. that was it... THAT WAS IT!!!
+    <p>Detective #21532 -- Listen, "...what sounds like a utopian society much like the Federation’s self-stylization, is, in fact, achieved by a totalitarian use of technology[...]." (quote detected, logging into Referenes section...), know what that means?
+	<p>[[[REDACTED]]] -- IM NOT LISTENING TO ANOTHER ******* WORD OUT OF YOUR DAMNED MOUTH, GET ME ANOTHER DETECTIVE!! SOMEONE!!! I CANT TAKE THIS!!!!</p>
+	<p>Rattling of chains detected...</p>
+	<p>Detective #21532 -- *groan*</p>
+
+<p> RECORDING TERMINATED
+  </section>
+
+  <section>
+    <h2>References</h2>
+    <ol>
+      <li>*Eden -- See sticky note</li>
+      <li>**The Burn -- Kurtzman, A. (2020, October 15). That Hope is You Pt.1. Star Trek Discovery. episode, CBS.</li>
+      <li>***Kozinets, R. (2022, November 7). Utopian enterprise: Articulating the meanings of Star Trek’s culture of consumption (published in the Journal of Consumer Research in 2001). Tekno’s Cultural Adventures. https://kozinets.net/article/star-trek-as-utopian-enterprise/ </li>
+      <li>****Jablonski, N. (2021, July 13). Alien monstrosity: The practice of technology and “race” as Technol... European journal of American studies. https://journals.openedition.org/ejas/16943 </li>
+      <li><a href="https://docs.google.com/document/d/1w3qFoB-IwhjkCBokeIkVg_tTt10oj28e7yE-FzqZPWM/edit?usp=sharing" target="_blank">Baseline</a></li>
+    </ol>
+  </section>
+</main>
+
+<footer>
+  THE TWO WAY MIRROR BUREAU © 3113 · Evidence Access ID 4509-FRB<br>
+  Unauthorized dissemination punishable under Federation Code §22-C
+</footer>
+
+<script>
+document.addEventListener("mousemove", e => {
+  const x = (e.clientX / window.innerWidth - 0.5) * 20;
+  const y = (e.clientY / window.innerHeight - 0.5) * 20;
+  document.getElementById("parallax").style.transform = `translate(${x}px,${y}px)`;
+});
+</script>
+</body>
+</html>
